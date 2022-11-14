@@ -1,4 +1,4 @@
-# sfscon2022-slides
+# SFScon 2022: Post-Collapse Computing 
 Slides for my [SFScon 2022 talk](https://www.sfscon.it/talks/post-collapse-computing) about post-collapse computing
 
 This talk is a shorter version of the one I gave at [GUADEC 2022](https://github.com/bertob/guadec2022-slides).
